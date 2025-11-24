@@ -1,125 +1,81 @@
-# 👋 안녕하세요, 조해창입니다
+  
+  # README
+  
+<div align="center">
 
-> **AI 실무 개발자 with Tech for Impact DNA**
-> RAG 시스템부터 멀티에이전트까지 - 기술이 필요한 곳에 닿도록 만드는 개발자입니다.
+Impact를 위해 일하는 AI 실무자   
+RAG 시스템부터 멀티에이전트까지 - 기술이 필요한 곳에
 
----
+  <br>
+
+  [![Email](https://img.shields.io/badge/Email-cake0103%40nate.com-red?style=flat-square&logo=gmail&logoColor=white)](mailto:cake0103@nate.com)
+  [![GitHub](https://img.shields.io/badge/GitHub-suncreation-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/suncreation)
+
+</div>
+  <img src="assets/banner.png" width="100%" alt="Tech for Impact Banner" />
+멀티 에이전트 개발 시스템 - 디렉션을 계획부터 검증까지 알아서 시행합니다.
+<br>
 
 ## 🌍 Why I Code
 
 **"좋은 기술은 필요한 사람에게 닿을 때 가치를 만듭니다."**
-
+저는 조해창입니다. 세상에 대한 의문과 갈길을 찾아서 물리학을 전공했습니다. 흘러가다 보니 배운 컴퓨터와 인공지능은 제 관심을 사로잡았고, 지금은 세상의 관심을 사로잡고 있습니다.   
 AI 연구 커뮤니티에서 사회혁신 프로젝트를 기획하고 운영하며, 기술이 실제 문제를 해결하는 과정을 경험했습니다.
-이제는 직접 개발자로서 더 깊이 참여하고 싶습니다.
 
-**Tech for Impact 프로젝트 경험:**
-- 🏥 **케어링노트** - 독거노인 복약상담 앱 (약사 봉사 디지털화)
-- 👁️ **An eye LAB** - 인도 백내장 진단 앱 (의료 접근성)
-- 🎮 **이을LAB** - 지역소멸 대응 게임 앱 (직접 기획 & 구성)
+- **케어링노트** - 독거노인 복약상담 앱 (약사 봉사 디지털화)
+- **An eye LAB** - 인도 백내장 진단 앱 (의료 접근성)
+- **이을LAB** - 지역소멸 대응 게임 앱 (직접 기획 & 구성)
 
 **커뮤니티 오케스트레이션:**
-- AI 연구 LAB 2개 직접 기획 및 설계
-- 기술 이해 기반 LAB 대표 선발 (인사권 보유)
+- Tech for Impact 연구 LAB 직접 기획 및 설계
+- 커뮤니티에 참여하여 직접 연구활동 진행
 - GPU 서버 인프라 운영으로 AI 논문 성과 지원
 - 100+ 연구원들의 임팩트 프로젝트 참여 환경 조성
 
----
-
-## 💻 Core Competencies
-
-### 🤖 AI System Development
-- **RAG 기반 Q&A 시스템** 개발 및 운영 (커뮤니티 사용자 질의응답)
-- **멀티에이전트 시스템** 구축 (n8n 기반 콘텐츠/개발 자동화)
-- **LLM 활용** - LangChain/LangGraph 전문 강의 (삼성, LG 등)
-- **MCP(Model Context Protocol)** 실무 적용 경험
-
-### 🖥️ Infrastructure & DevOps
-- **GPU 서버 인프라 운영** - 7대 서버 복구 → 커뮤니티 100% 활용
-- **Kubernetes 운영** - n8n 워크플로우 엔진 고가용성 배포
-- **API 기반 AI 서비스** 구축 (접근성 확대)
-
-### 🛠️ Full-Stack Development
-- **Frontend**: React, JavaScript, HTML/CSS
-- **Backend**: Python, Django, FastAPI
-- **Data**: Pandas, NumPy 기반 분석 (재직자 교육 다수 진행)
-
----
+<br>
 
 ## 🛠️ Tech Stack
 
-### AI/ML
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-121212?style=flat-square&logo=chainlink&logoColor=white)
-![RAG](https://img.shields.io/badge/RAG-4285F4?style=flat-square&logo=google&logoColor=white)
+<div align="center">
 
-### Backend & Data
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+| AI/ML | Backend & Data | Frontend | Infrastructure | Automation |
+| :---: | :---: | :---: | :---: | :---: |
+| ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) | ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) | ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white) | ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white) |
+| ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) | ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white) | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) | ![MCP](https://img.shields.io/badge/MCP-000000?style=flat-square&logo=protocol&logoColor=white) |
+| ![LangChain](https://img.shields.io/badge/LangChain-121212?style=flat-square&logo=chainlink&logoColor=white) | ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) | | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) | |
+| ![RAG](https://img.shields.io/badge/RAG-4285F4?style=flat-square&logo=google&logoColor=white) | ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) | | ![GPU Server](https://img.shields.io/badge/GPU%20Server-76B900?style=flat-square&logo=nvidia&logoColor=white) | |
 
-### Frontend
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+</div>
 
-### Infrastructure
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![GPU Server](https://img.shields.io/badge/GPU%20Server-76B900?style=flat-square&logo=nvidia&logoColor=white)
+<br>
 
-### Automation
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
-![MCP](https://img.shields.io/badge/MCP-000000?style=flat-square&logo=protocol&logoColor=white)
+## Key Projects
 
----
+| Project | Problem & Solution | Impact | Tech Stack |
+| :--- | :--- | :--- | :--- |
+| **1. RAG 기반 커뮤니티 Q&A 봇** | **P**: 신규 멤버 반복 질문<br>**S**: 맥락 기반 자동 응답 시스템 | 주말 대응 가능<br>즉시 응답 시스템 구축 | Python, RAG, LangChain, Vector DB |
+| **2. GPU 서버 인프라 복구** | **P**: 서버 고장으로 연구 중단<br>**S**: 서버 복구 및 API 접근 전환 | 3개월 내 사용률 100%<br>논문 성과 지원 | Linux, Docker, K8s, GPU Server |
+| **3. n8n 멀티에이전트 & 커뮤니티 호스팅** | **P**: 반복 업무 및 자동화 도구 니즈<br>**S**: K8s 기반 n8n 서버 호스팅 및 워크플로우 구축 | 커뮤니티 멤버 사용 환경 제공<br>사내 업무 자동화(수작업 70% ↓) | n8n, Kubernetes, MCP, LLM API |
+| **4. Tech for Impact LAB** | **Role**: AI 커뮤니티-사회혁신 연결<br>**Act**: LAB 기획, 인재 매칭 | 케어링노트, 이을LAB 등<br>임팩트 프로젝트 배출 | Community Building, Tech Leadership |
 
-## 🚀 Key Projects
+<br>
 
-### 1. RAG 기반 커뮤니티 Q&A 봇
-**Problem**: 커뮤니티 신규 멤버들의 반복 질문 처리
-**Solution**: RAG 시스템으로 맥락 기반 자동 응답
-**Impact**: 주말에도 즉시 대응 가능한 시스템 구축
+## Core Competencies
 
-**Tech Stack**: Python, RAG, LangChain, Vector DB
+- **AI System Development**: RAG 기반 Q&A, 멀티에이전트 시스템, LLM 활용 강의 (삼성, LG 등)
+- **Infrastructure**: GPU 서버 복구 및 운영, Kubernetes 고가용성 배포
+- **Full-Stack**: React, Django, FastAPI, Data Analysis (Pandas, NumPy)
 
----
-
-### 2. GPU 서버 인프라 복구 & 클라우드 전환
-**Problem**: 7대 고장 서버로 AI 연구 중단
-**Solution**: 서버 복구 + API 기반 접근으로 전환
-**Impact**: 3개월 내 사용률 100% 달성, 논문 성과 지원
-
-**Tech Stack**: Linux, Docker, Kubernetes, GPU Server Management
-
----
-
-### 3. n8n 멀티에이전트 자동화 시스템
-**Problem**: 반복적 콘텐츠 생성 & 개발 작업
-**Solution**: n8n 기반 워크플로우 자동화
-**Impact**: 수작업 70% 감소
-
-**Tech Stack**: n8n, MCP, LLM API Integration
-
----
-
-### 4. Tech for Impact LAB 기획 & 운영
-**Role**: AI 연구 커뮤니티와 사회혁신가를 연결하는 브릿지
-**Achievements**:
-- 2개 LAB 직접 기획 (이을LAB - 지역소멸 대응 등)
-- LAB 대표 선발 및 인재 매칭 (기술 이해 기반 인사권)
-- GPU 인프라 운영으로 AI 논문 성과 지원
-
-**Impact Projects**: 케어링노트, An eye LAB, 이을LAB 등
-
----
+<br>
 
 ## 🎓 Teaching & Writing
 
+<details>
+<summary> <strong>강의 및 저술 활동 자세히 보기</strong></summary>
+
 ### 강의 (AI 실무 중심)
-- **LangChain/LangGraph 전문 강의** - 삼성전자, LG전자, 광주 AI 사관학교 (1-2개월 과정)
-- **데이터 분석 실무** - 재직자 대상 가장 많이 진행 (Pandas, NumPy, 시각화)
+- **LangChain/LangGraph 전문 강의** - 삼성전자, LG전자, 광주 AI 사관학교
+- **데이터 분석 실무** - 재직자 대상 (Pandas, NumPy, 시각화)
 - **코딩 테스트 고급** - 알고리즘 문제 해결 및 최적화
 - **React + Django 풀스택** - 프론트엔드/백엔드 통합 과정
 - **이화여대, 단국대** - 바이브코딩 수업
@@ -129,45 +85,44 @@ AI 연구 커뮤니티에서 사회혁신 프로젝트를 기획하고 운영하
 - 📚 **『이미지처리 바이블』** - 집필
 - 📚 **『ChatGPT의 원칙과 실습』** - 번역
 
----
+</details>
 
-## 📊 Learning Timeline
+<br>
 
+## Learning Timeline
+
+```mermaid
+gantt
+    title Learning Path
+    dateFormat  YYYY-MM
+    axisFormat  %Y
+    section Basic
+    ML & NLP           :2019-01, 2020-12
+    Data & Image       :2020-01, 2021-12
+    section Advanced
+    NLP Paper Study    :2021-01, 2025-11
+    LLM & LangChain    :2022-06, 2023-12
+    LLMOPS & RAG       :2023-01, 2024-12
+    MCP & Production   :2024-01, 2025-11
 ```
-2019-2020: ML 기초 → 이미지 처리 심화
-2020-2021: 딥러닝 → PyTorch 실습
-2021-2022: NLP 기초 → Transformer 구조
-2022-2023: LLM 활용 → ChatGPT API 통합
-2023-2024: AI 인프라 → 멀티에이전트 시스템
-2024-현재: RAG, MCP, 프로덕션 AI 시스템
-```
 
----
-
-## 💡 What I Bring
-
-- ✅ **AI 실무 개발** - RAG, 멀티에이전트, LLM 통합 시스템 구축
-- ✅ **빠른 실행력** - 문제 파악 → 솔루션 설계 → 배포까지 빠르게
-- ✅ **인프라 운영** - Kubernetes, GPU 서버, 대규모 시스템 경험
-- ✅ **풀스택 역량** - Frontend(React) + Backend(Django) + AI 통합
-- ✅ **임팩트 이해** - 기술이 어떻게 사회문제를 해결하는지 경험
-- ✅ **지속적 학습** - 새로운 기술(MCP, RAG 등) 즉시 습득 및 적용
-
----
-
-## 📫 Contact
-
-- GitHub: [@suncreation](https://github.com/suncreation)
-- Email: *(이력서에 기재)*
-
----
+<br>
 
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=suncreation&show_icons=true&theme=radical)
+<div align="center">
+<table>
+  <tr>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=suncreation&show_icons=true&theme=radical" alt="Suncreation's GitHub Stats" /></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suncreation&layout=compact&theme=radical" alt="Top Langs" /></td>
+  </tr>
+</table>
+</div>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=suncreation&layout=compact&theme=radical)
+<br>
 
----
+<div align="center">
+  
+  💬 *"좋은 기술은 필요한 사람에게 닿을 때 가치를 만듭니다. 저는 그걸 만드는 개발자입니다."*
 
-💬 *"좋은 기술은 필요한 사람에게 닿을 때 가치를 만듭니다. 저는 그걸 만드는 개발자입니다."*
+</div>
