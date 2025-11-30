@@ -106,18 +106,6 @@ gantt
     MCP & AI Agent Production   :2024-01, 2025-11
 ```
 
-<br>
-
-## 📈 GitHub Stats
-
-<div align="center">
-<table>
-  <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=suncreation&show_icons=true&theme=radical" alt="Suncreation's GitHub Stats" /></td>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suncreation&layout=compact&theme=radical" alt="Top Langs" /></td>
-  </tr>
-</table>
-</div>
 
 <br>
 
