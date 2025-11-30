@@ -75,10 +75,11 @@ AI 연구 커뮤니티에서 사회혁신 프로젝트를 기획하고 운영하
 
 ### 강의 (AI 실무 중심)
 - **LangChain/LangGraph 전문 강의** - 삼성전자, LG전자, 광주 AI 사관학교
-- **데이터 분석 실무** - 재직자 대상 (Pandas, NumPy, 시각화)
-- **코딩 테스트 고급** - 알고리즘 문제 해결 및 최적화
-- **React + Django 풀스택** - 프론트엔드/백엔드 통합 과정
-- **이화여대, 단국대** - 바이브코딩 수업
+- **RAG & Vector DB** - 삼성전자, LG전자
+- **데이터 분석 실무(Pandas, NumPy, StateModels 시각화/통계)** - 삼성전자, LG전자
+- **코딩 테스트 고급(알고리즘 문제 해결 및 최적화)** - 취준생, 대학원생
+- **프론트엔드/백엔드 통합 과정(React + Django)** - 성균관대학교 인공지능 인재양성과정, 광주 AI 사관학교
+- **바이브코딩 서비스/게임만들기** - 이화여대, 단국대
 - **Build with AI 해커톤** - Google 공동 주최 세미나
 
 ### 저술
@@ -97,13 +98,12 @@ gantt
     dateFormat  YYYY-MM
     axisFormat  %Y
     section Basic
-    ML & NLP           :2019-01, 2020-12
-    Data & Image       :2020-01, 2021-12
+    ML & NLP & Image   :2021-09, 2022-10
     section Advanced
-    NLP Paper Study    :2021-01, 2025-11
+    NLP Paper Study    :2023-01, 2025-11
     LLM & LangChain    :2022-06, 2023-12
     LLMOPS & RAG       :2023-01, 2024-12
-    MCP & Production   :2024-01, 2025-11
+    MCP & AI Agent Production   :2024-01, 2025-11
 ```
 
 <br>
